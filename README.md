@@ -132,16 +132,11 @@ const israelHerrera = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saxoboy&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117" alt="Israel Herrera github stats" /> 
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxoboy&layout=compact&hide_border=true&title_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saxoboy&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+<a href="https://github.com/saxoboy">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saxoboy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saxoboy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 </div>
 
@@ -155,11 +150,27 @@ const israelHerrera = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=saxoboy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saxoboy&theme=tokyonight" alt="Profile Summary" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saxoboy&theme=tokyonight" alt="Repos per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saxoboy&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saxoboy&theme=tokyonight" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saxoboy&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
