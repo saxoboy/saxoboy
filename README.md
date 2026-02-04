@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
 ```typescript
 const israelHerrera = {
@@ -49,16 +49,16 @@ const israelHerrera = {
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🔥 Lo que hago:
+### 🔥 What I Do:
 
-- 🏗️ Construcción de aplicaciones **SaaS Multi-tenant**
-- 🎨 Desarrollo de **interfaces modernas** y responsivas
-- ⚡ Optimización de **performance** y **escalabilidad**
-- 🔒 Implementación de **arquitecturas seguras**
-- 📱 Desarrollo de aplicaciones **mobile-first**
-- 🌐 Integración de **APIs RESTful** y **GraphQL**
+- 🏗️ Building **Multi-tenant SaaS** applications
+- 🎨 Developing **modern and responsive** interfaces
+- ⚡ Optimizing **performance** and **scalability**
+- 🔒 Implementing **secure architectures**
+- 📱 Creating **mobile-first** applications
+- 🌐 Integrating **RESTful APIs** and **GraphQL**
 
-### 🌱 Actualmente aprendiendo:
+### 🌱 Currently Learning:
 
 - Advanced TypeScript Patterns
 - Microservices Architecture
@@ -129,7 +129,7 @@ const israelHerrera = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -145,7 +145,7 @@ const israelHerrera = {
 
 </div>
 
-### 📈 Gráfico de Contribuciones
+### 📈 Contribution Graph
 
 <div align="center">
   
@@ -155,7 +155,7 @@ const israelHerrera = {
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   
@@ -165,7 +165,7 @@ const israelHerrera = {
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
 <div align="center">
 
@@ -177,35 +177,35 @@ const israelHerrera = {
 
 </div>
 
-### 💼 Proyectos Principales
+### 💼 Main Projects
 
 #### 🏥 [Reputation Manager](https://github.com/saxoboy/reputation-manager)
-> Sistema Multi-tenant SaaS de gestión de feedback para profesionales de la salud en Ecuador
+> Multi-tenant SaaS feedback management system for healthcare professionals in Ecuador
 - **Tech Stack**: TypeScript, Next.js, NestJS, PostgreSQL
 - **Features**: Multi-tenancy, Real-time notifications, Advanced analytics
 
 #### 📋 [Construex](https://github.com/saxoboy/construex)
-> Aplicación moderna de gestión de tareas y proyectos
+> Modern task and project management application
 - **Tech Stack**: TypeScript, React, Node.js
 - **Features**: Task management, Team collaboration, Progress tracking
 
 #### 🎨 [Portfolio Website](https://github.com/saxoboy/israelherrera-dev)
-> Mi portfolio personal desarrollado con las últimas tecnologías
+> My personal portfolio built with cutting-edge technologies
 - **Tech Stack**: TypeScript, Next.js, Tailwind CSS
 - **Features**: Interactive UI, Blog, Project showcase
 
 #### 📊 [Kanban Board](https://github.com/saxoboy/kanban-demo)
-> Tablero Kanban funcional con drag & drop
+> Functional Kanban board with drag & drop
 - **Tech Stack**: Next.js, TypeScript, Tailwind CSS
 - **Features**: Drag and drop, State management, Clean architecture
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Connect With Me
 
 <div align="center">
 
-### 💬 Siempre abierto a colaborar en proyectos interesantes
+### 💬 Always open to collaborate on interesting projects
 
 <p>
   <a href="https://israelherrera.dev" target="_blank">
@@ -222,9 +222,9 @@ const israelHerrera = {
   </a>
 </p>
 
-### ⭐ De [saxoboy](https://github.com/saxoboy)
+### ⭐ From [saxoboy](https://github.com/saxoboy)
 
-<i>¡Feliz Coding! 🚀</i>
+<i>Happy Coding! 🚀</i>
 
 </div>
 
